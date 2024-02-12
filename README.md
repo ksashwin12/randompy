@@ -1,2 +1,2 @@
 
-# Just some random scripts using python
+# Just some code snippets using python
